@@ -7,7 +7,7 @@ which can then be used when executing an ansible playbook using the --limit argu
 
 
 ## Usage
-1. Place the zenoss-dynamic-inventory.py file in a folder in your ansible project, e.g. ./zenoss-dynamic-inventory/zenoss-dynamic-inventory.py
+1. Place the zenoss-dynamic-inventory.py file in a folder in your ansible project, e.g. _./zenoss-dynamic-inventory/zenoss-dynamic-inventory.py_
 2. Edit config.ini.example to include your instance name and user account info and rename it to config.ini
 3. Install the zenoss and requests python libraries using ***pip install zenoss requests***
 
