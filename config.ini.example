@@ -1,0 +1,4 @@
+[zenoss]
+uri = https://yourzenossinstancefqdn.com
+username = your_username
+password = your_password
