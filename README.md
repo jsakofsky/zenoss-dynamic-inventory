@@ -32,4 +32,4 @@ Currently, this version returns the following host variables:
 * device_ip
     
 ## License
-This project is published with the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT license</a>, so feel free to use the code in your own projects.
+This project is published with the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT license</a>.
