@@ -4,6 +4,7 @@ This script will allow you to use Zenoss as an inventory source in Ansible. It o
 portion of your Zenoss group paths (e.g. if your group path is /MYNETWORK/ROUTERS/, your group name is ROUTERS) 
 which can then be used when executing an ansible playbook using the --limit argument.
 
+Want to mention, structure was heavily influenced by <a href="https://github.com/smnmtzgr/ansible-apicem-dynamic-inventory" target="_blank">ansible-apicem-dynamic-inventory</a>.
 
 
 ## Usage
